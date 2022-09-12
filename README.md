@@ -24,4 +24,4 @@ Hola, ¿que tal?
 <html>
 ```
 
-[link](https://www.marca.com "Titulo Opcional")
+[Marca](https://www.marca.com "Titulo Opcional")
