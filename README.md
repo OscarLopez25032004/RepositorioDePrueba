@@ -25,3 +25,5 @@ Hola, ¿que tal?
 ```
 
 [Marca](https://www.marca.com "Titulo Opcional")
+
+![agua](https://github.com/OscarLopez25032004/RepositorioDePrueba/blob/main/agua-mar-pixabay_0.jpg "Imagen de agua")
