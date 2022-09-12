@@ -27,3 +27,10 @@ Hola, ¿que tal?
 [Marca](https://www.marca.com "Titulo Opcional")
 
 ![agua](https://github.com/OscarLopez25032004/RepositorioDePrueba/blob/main/agua-mar-pixabay_0.jpg "Imagen de agua")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:--------:|---------:|
+| Nombre | Apellido | Apellido |
+| Nombre2| Apellido2| Apellido2|
+| Col 3  | alineado | derecha  |
+| Col 2  | alineado | centro   |
